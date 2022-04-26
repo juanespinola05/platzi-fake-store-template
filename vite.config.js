@@ -4,7 +4,7 @@ export default defineConfig({
   server: {
     proxy: {
       '/api': {
-        target: 'https://random-d.uk',
+        target: 'https://api.escuelajs.co',
         changeOrigin: true,
         secure: false,
         ws: true
