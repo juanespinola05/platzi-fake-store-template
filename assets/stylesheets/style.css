@@ -50,11 +50,11 @@ body {
 }
 
 .cart {
-  background-image: url('./assets/images/cart.png');
+  background-image: url('../images/cart.png');
 }
 
 .favorite {
-  background-image: url('./assets/images/star.webp');
+  background-image: url('../images/star.webp');
 }
 
 header {
